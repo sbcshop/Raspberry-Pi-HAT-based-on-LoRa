@@ -1,11 +1,10 @@
 # Raspberry-Pi-HAT-based-on-LoRa
 
-# Lora-HAT-for-Raspberry-Pi
-Pi LoRa™ Lora Hat is a low-power consumption data transmission board, comes with an onboard CH340 USB TO UART converter, Voltage Level Translator(74HC125V), E22-900T22S/E22-400T22S SMA antenna connector that covers 868MHz/433MHz frequency band ,IPEX antenna connector, LoRa™ Spread Spectrum Modulation technology with auto multi-level repeating.
+Raspberry-Pi-HAT-based-on-LoRa is a low-power consumption data transmission board, comes with an onboard CH340 USB TO UART converter, Voltage Level Translator(74HC125V), E22-900T22S/E22-400T22S SMA antenna connector that covers 868MHz/433MHz frequency band ,IPEX antenna connector, LoRa™ Spread Spectrum Modulation technology with auto multi-level repeating.
 
 <img src= "https://github.com/sbcshop/Lora-HAT-for-Raspberry-Pi/blob/main/images/img.png" />
 
-## For Communication between two Pi Lora Hat
+## For Communication between two Raspberry-Pi-HAT-based-on-LoRa
 
 <img src= "https://github.com/sbcshop/Lora-HAT-for-Raspberry-Pi/blob/main/images/img4.JPG" />
 
@@ -46,7 +45,7 @@ Pi LoRa™ Lora Hat is a low-power consumption data transmission board, comes wi
 * GatePi 4Channel
 * GatePi 8channel
 * RangePi
-* LoRA HAT for RPi*
+* Raspberry-Pi-HAT-based-on-LoRa*
 * PICO LoRa Expansion
 
 You will simply need to make one device to work as reciever and another one is as a transmitter. So that you can communicate to each other and this can be done with any of our LoRa products mentioned above. For working with our other products please follow the below link:
@@ -57,7 +56,7 @@ https://github.com/sbcshop/GatePi-4CH
 https://github.com/sbcshop/GatePi-8CH
 * RangePi
 https://github.com/sbcshop/RangePi
-* LoRA HAT for RPi* (Itself)
+* Raspberry-Pi-HAT-based-on-LoRa* (Itself)
 * PICO LoRa Expansion
 https://github.com/sbcshop/PICO-LORA-EXPANSION
 
