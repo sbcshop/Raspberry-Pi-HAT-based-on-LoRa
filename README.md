@@ -1,5 +1,7 @@
 # Raspberry-Pi-HAT-based-on-LoRa
 
+<img src ="https://github.com/sbcshop/Raspberry-Pi-HAT-based-on-LoRa/blob/main/images/Pi_lora_HAT.png" />
+
 Raspberry-Pi-HAT-based-on-LoRa is a low-power consumption data transmission board, comes with an onboard CH340 USB TO UART converter, Voltage Level Translator(74HC125V), E22-900T22S/E22-400T22S SMA antenna connector that covers 868MHz/433MHz frequency band ,IPEX antenna connector, LoRa™ Spread Spectrum Modulation technology with auto multi-level repeating.
 
 <img src= "https://github.com/sbcshop/Lora-HAT-for-Raspberry-Pi/blob/main/images/img.png" />
